@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
+
+dataset_frames/
+dataset_raw/
+models/
